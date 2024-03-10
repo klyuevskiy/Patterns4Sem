@@ -3,6 +3,10 @@ using Lab1.Poops;
 using Lab1.Blood;
 using Lab1;
 
+/*
+ * Задание Абстрактная фабрика B(медицина)
+ */
+
 // обслужить пациента: взять материал, сделать анализ и сообщить результаты
 void ServePatient(IAnalysisFactory factory, IPrinter printer)
 {

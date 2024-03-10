@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /*
- * Задание Абстрактная фабрика и медицина
+ * Задание Абстрактная фабрика B(медицина)
  */
 
 namespace Lab1.Abstract
